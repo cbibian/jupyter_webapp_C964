@@ -71,7 +71,7 @@ prometheus-client
 prompt-toolkit==3.0.43
 psutil==5.9.8
 pure-eval==0.2.2
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycparser
 Pygments==2.17.2
 pyparsing==3.1.2
 PySocks
