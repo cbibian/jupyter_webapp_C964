@@ -6,7 +6,7 @@ asttokens==2.4.1
 #async-lru @ file:///C:/b/abs_e0hjkvwwb5/croot/async-lru_1699554572212/work
 #attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
 #Babel @ file:///C:/ci_311/babel_1676427169844/work
-beautifulsoup4 @ file:///C:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
+beautifulsoup4 @ file:///R:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 certifi @ file:///C:/b/abs_7bbxxprxir/croot/certifi_1720453609121/work/certifi
