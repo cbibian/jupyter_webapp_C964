@@ -57,7 +57,7 @@ nbformat
 nest-asyncio 
 notebook 
 notebook_shim 
-numpy==2.0.0
+numpy==1.26.4
 overrides 
 packaging
 pandas==2.2.2
